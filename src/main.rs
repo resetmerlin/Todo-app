@@ -7,9 +7,7 @@ struct TodoList{
 }
 
 fn main() {
-    let mut 
-    
-    todo_lists: Vec<TodoList>  = vec![];
+    let mut todo_lists: Vec<TodoList>  = vec![];
 
     println!("Initate todo list app");
 
